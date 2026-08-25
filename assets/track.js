@@ -128,7 +128,7 @@
         setField(form, k, attr[k]);
       });
       setField(form, 'landing_page', attr.landing_page);
-      setField(form, 'referrer', attr.referrer);
+      setField(form, 'ad_referrer', attr.referrer);
       setField(form, 'first_seen', attr.ts);
       setField(form, 'submitted_page', window.location.origin + window.location.pathname);
     });
