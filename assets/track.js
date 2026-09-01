@@ -149,3 +149,35 @@
     init();
   }
 })();
+
+
+/* ==========================================================================
+   Tawk.to live chat + WhatsApp float repositioning   (added 2026-09-01)
+   --------------------------------------------------------------------------
+   Loaded site-wide because every page already includes /assets/track.js.
+   The Tawk widget occupies the bottom-right corner, so the existing WhatsApp
+   button (Tailwind "bottom-5 right-5") is pushed up to clear it.
+   ========================================================================== */
+(function () {
+  "use strict";
+
+  /* --- 1. lift the WhatsApp float above the Tawk widget --- */
+  var css = document.createElement('style');
+  css.textContent =
+    'a[href*="wa.me"].fixed{bottom:210px !important;right:24px !important;z-index:2147483000 !important;}' +
+    '@media (max-width:760px){a[href*="wa.me"].fixed{bottom:195px !important;right:16px !important;}}' +
+    '@media print{a[href*="wa.me"].fixed{display:none !important;}}';
+  (document.head || document.documentElement).appendChild(css);
+
+  /* --- 2. Tawk.to loader --- */
+  if (window.Tawk_API) return;
+  window.Tawk_API = window.Tawk_API || {};
+  window.Tawk_LoadStart = new Date();
+  var s1 = document.createElement('script');
+  var s0 = document.getElementsByTagName('script')[0];
+  s1.async = true;
+  s1.src = 'https://embed.tawk.to/6a9688f5c0e5523444112f11/1k1e0e0cr';
+  s1.charset = 'UTF-8';
+  s1.setAttribute('crossorigin', '*');
+  s0.parentNode.insertBefore(s1, s0);
+})();
