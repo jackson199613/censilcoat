@@ -164,8 +164,8 @@
   /* --- 1. lift the WhatsApp float above the Tawk widget --- */
   var css = document.createElement('style');
   css.textContent =
-    'a[href*="wa.me"].fixed{bottom:210px !important;right:24px !important;z-index:2147483000 !important;}' +
-    '@media (max-width:760px){a[href*="wa.me"].fixed{bottom:195px !important;right:16px !important;}}' +
+    'a[href*="wa.me"].fixed{bottom:145px !important;right:24px !important;z-index:2147483000 !important;}' +
+    '@media (max-width:760px){a[href*="wa.me"].fixed{bottom:140px !important;right:16px !important;}}' +
     '@media print{a[href*="wa.me"].fixed{display:none !important;}}';
   (document.head || document.documentElement).appendChild(css);
 
