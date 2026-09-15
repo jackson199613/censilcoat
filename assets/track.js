@@ -181,3 +181,17 @@
   s1.setAttribute('crossorigin', '*');
   s0.parentNode.insertBefore(s1, s0);
 })();
+
+/* ---------------------------------------------------------------
+ * Geovees 网站统计（GeoChecker）
+ * 站点标识 92c1f8282d58d859
+ * 必须用 https 加载：stat.js 的上报接口取自自身 src 的协议，
+ * 走 http 会被 HTTPS 页面当混合内容拦截。
+ * --------------------------------------------------------------- */
+(function () {
+  window.GEO_STAT_SITE = '92c1f8282d58d859';
+  var s = document.createElement('script');
+  s.src = 'https://geovees.com/stat/stat.js';
+  s.async = true;
+  (document.head || document.documentElement).appendChild(s);
+})();
