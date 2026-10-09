@@ -78,8 +78,8 @@ VIS_RE = re.compile(r'<p class="mt-0 text-white/50">(?:Last updated|C\u1eadp nh\
 
 # footer 商标行是逐语言写的，锚点也必须逐语言。少一个 vi 页就没有可见日期。
 ANCHORS = [
-    ('<p>ACEMATT® is a trademark of Evonik.', 'Last updated'),
-    ('<p>ACEMATT® là nhãn hiệu của Evonik.',  'Cập nhật lần cuối'),
+    ('<p>Grade codes such as OK 412', 'Last updated'),
+    ('<p>Các mã như OK 412',  'Cập nhật lần cuối'),
 ]
 
 def stamp_visible(s, iso, label):

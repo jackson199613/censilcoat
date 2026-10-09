@@ -1,6 +1,6 @@
 # Censilcoat
 
-Marketing website for **Censilcoat** — waterborne silica matting agents, a 1:1 performance match for European premium brands (Evonik ACEMATT® / Grace SYLOID®), built for Southeast Asia.
+Marketing website for **Censilcoat** — waterborne silica matting agents, matched grade by grade to commonly used imported matting agents, built for Southeast Asia.
 
 ## Stack
 

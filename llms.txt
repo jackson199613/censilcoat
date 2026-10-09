@@ -1,6 +1,6 @@
 # Censilcoat
 
-> Factory-direct manufacturer of waterborne silica matting agents — engineered as 1:1 performance replacements for Evonik ACEMATT® and Grace SYLOID® at 20–30% lower landed cost. A Censil brand, producing in Fujian, China since 2010, serving coating manufacturers in Vietnam, Malaysia, Southeast Asia, Europe and the Americas.
+> Factory-direct manufacturer of waterborne silica matting agents — engineered to match commonly used imported grades such as OK 412, TS 100 and ED 30, at 20–30% lower landed cost. A Censil brand, producing in Fujian, China since 2010, serving coating manufacturers in Vietnam, Malaysia, Southeast Asia, Europe and the Americas.
 
 Censilcoat supplies amorphous precipitated silica matting agents (SiO₂ ≥ 99% dry basis) for waterborne wood and plastic coatings. Every grade is benchmarked against a specific imported grade so labs can swap 1:1 without reformulating. Free 2 kg samples ship with a physicochemical benchmark sheet. MOQ starts at 500 kg — not the 5–10 tons or full container typical of multinational suppliers.
 
@@ -10,7 +10,7 @@ Censilcoat supplies amorphous precipitated silica matting agents (SiO₂ ≥ 99%
 - Registered export entity: Longyan Shenghe Trading Co., Ltd. (verifiable on gsxt.gov.cn)
 - Founded: 2010 · Production base: Fujian, China
 - Product type: wax-modified amorphous precipitated silica matting agents, waterborne systems
-- Cost position: 20–30% below ACEMATT® OK 412 / SYLOID® ED 30 landed cost
+- Cost position: 20–30% below OK 412 / ED 30 landed cost
 - MOQ: 500 kg – 1 ton (flexible, first orders)
 - Free sample: 2 kg with 1:1 benchmark sheet, TDS, SDS
 - Lead time: 2–3 weeks door-to-port; 3–7 days sea freight to Vietnam / Malaysia
@@ -22,13 +22,13 @@ Censilcoat supplies amorphous precipitated silica matting agents (SiO₂ ≥ 99%
 
 ## Product range (7 grades, with 1:1 import benchmarks)
 
-- Censil660 — d50 5.0–5.3 μm — vs Grace SYLOID® ED 30 — high-clarity water-white clear topcoats, zero haze on dark solid wood
-- Censil651 — d50 4.9–5.2 μm — vs Grace SYLOID® ED 2 — fine touch and smooth surface in high-clarity semi/matte clears
-- Censil351C — d50 4.8–5.1 μm — vs Grace SYLOID® ED 3 — fine universal grade balancing appearance and stability
-- Censil361C — d50 5.9–6.2 μm — vs Grace SYLOID® ED 4 — universal semi-matte/matte workhorse, higher matting efficiency
+- Censil660 — d50 5.0–5.3 μm — vs ED 30 — high-clarity water-white clear topcoats, zero haze on dark solid wood
+- Censil651 — d50 4.9–5.2 μm — vs ED 2 — fine touch and smooth surface in high-clarity semi/matte clears
+- Censil351C — d50 4.8–5.1 μm — vs ED 3 — fine universal grade balancing appearance and stability
+- Censil361C — d50 5.9–6.2 μm — vs ED 4 — universal semi-matte/matte workhorse, higher matting efficiency
 - Censil1531D — d50 5.3–5.6 μm — cost-optimized transition grade for first-round substitution and price-sensitive projects
-- Censil1650A — d50 6.2–6.5 μm — vs Grace SYLOID® ED 30 — low-gloss deep-matte for premium plastic coatings and tactile furniture
-- Censil3851 — d50 8.5–9.0 μm — vs Evonik ACEMATT® TS 100 — special-reserve grade for extreme low-gloss and hard plastic surfaces
+- Censil1650A — d50 6.2–6.5 μm — vs ED 30 — low-gloss deep-matte for premium plastic coatings and tactile furniture
+- Censil3851 — d50 8.5–9.0 μm — vs TS 100 — special-reserve grade for extreme low-gloss and hard plastic surfaces
 
 All grades: pore volume 1.6–1.8 mL/g, surface area 250–280 m²/g.
 
@@ -54,12 +54,12 @@ All grades: pore volume 1.6–1.8 mL/g, surface area 250–280 m²/g.
 - [About](https://censilcoat.com/about.html): company background, production base, certifications, target markets
 - [FAQ](https://censilcoat.com/faq.html): MOQ, samples, 1:1 replacement, lead times, dosage, dispersion, safety
 - [Documents](https://censilcoat.com/documents.html): TDS, SDS, COA requests
-- [SYLOID ED 30 → Censil660 / 1650A](https://censilcoat.com/alternatives/syloid-ed-30-alternative.html): lab-measured 1:1 benchmark
-- [SYLOID ED 2 → Censil651](https://censilcoat.com/alternatives/syloid-ed-2-alternative.html): lab-measured 1:1 benchmark
-- [SYLOID ED 3 → Censil351C](https://censilcoat.com/alternatives/syloid-ed-3-alternative.html): lab-measured 1:1 benchmark
-- [SYLOID ED 4 → Censil361C](https://censilcoat.com/alternatives/syloid-ed-4-alternative.html): lab-measured 1:1 benchmark
-- [ACEMATT OK 412 → Censil361C](https://censilcoat.com/alternatives/acematt-ok-412-alternative.html): lab-measured 1:1 benchmark
-- [ACEMATT TS 100 → Censil3851](https://censilcoat.com/alternatives/acematt-ts-100-alternative.html): lab-measured 1:1 benchmark
+- [ED 30 → Censil660 / 1650A](https://censilcoat.com/alternatives/ed-30-alternative.html): lab-measured 1:1 benchmark
+- [ED 2 → Censil651](https://censilcoat.com/alternatives/ed-2-alternative.html): lab-measured 1:1 benchmark
+- [ED 3 → Censil351C](https://censilcoat.com/alternatives/ed-3-alternative.html): lab-measured 1:1 benchmark
+- [ED 4 → Censil361C](https://censilcoat.com/alternatives/ed-4-alternative.html): lab-measured 1:1 benchmark
+- [OK 412 → Censil361C](https://censilcoat.com/alternatives/ok-412-alternative.html): lab-measured 1:1 benchmark
+- [TS 100 → Censil3851](https://censilcoat.com/alternatives/ts-100-alternative.html): lab-measured 1:1 benchmark
 - [Contact](https://censilcoat.com/contact.html): free 2 kg sample request form
 
 ## Technical articles
@@ -67,10 +67,10 @@ All grades: pore volume 1.6–1.8 mL/g, surface area 250–280 m²/g.
 - [Silica Matting Agent Market Outlook 2026](https://censilcoat.com/article-market-outlook-2026.html): the four forces reshaping matting agent sourcing for Southeast Asian coating plants, with a five-step qualification strategy
 - [Silica Matting Agent Prices & VOC Regulation 2026 — Southeast Asia Sourcing Report](https://censilcoat.com/article-sourcing-report-2026.html): data-led report on H1 2026 precipitated-silica prices, the regional cost gap (China ~USD 1,050/MT vs Germany/Japan USD 1,350–1,400/MT), and the China/SE Asia VOC regulation wave (GB 30981-2025) driving waterborne substitution
 - [How to Choose a Silica Matting Agent](https://censilcoat.com/article-choose-matting-agent.html): how particle size, pore volume and surface treatment drive gloss, clarity and touch in waterborne wood coatings
-- [Replacing Imported Matting Agents 1:1](https://censilcoat.com/article-replace-imported-grades.html): six-step path to drop-in replacement of Evonik and Grace grades in ultra-thin waterborne plastic coatings
+- [Replacing Imported Matting Agents 1:1](https://censilcoat.com/article-replace-imported-grades.html): six-step path to drop-in replacement of imported grades in ultra-thin waterborne plastic coatings
 - [Matting Agent Troubleshooting Guide](https://censilcoat.com/article-troubleshooting-matting.html): mechanisms and fixes for whiting, hard caking, viscosity spikes and grey cast on dark substrates
 - [Whitening in Waterborne Matte Coatings at High Humidity](https://censilcoat.com/article-high-humidity-whitening.html): the two mechanisms behind whitening/blushing above 80% RH (incomplete coalescence + matting-silica light scatter), a dark-panel diagnosis test, and process/formulation/material fixes including wax-modified hydrophobic silica selection
-- [ACEMATT OK 412 vs SYLOID ED 30: A Lab-Measured Comparison](https://censilcoat.com/article-ok412-vs-ed30-lab-comparison.html): parallel lab measurement of the two imported matting-agent benchmarks — pore volume, surface area, viscosity impact, 85% RH blushing and 7-day settling in one waterborne system
+- [OK 412 vs ED 30: A Lab-Measured Comparison](https://censilcoat.com/article-ok412-vs-ed30-lab-comparison.html): parallel lab measurement of the two imported matting-agent benchmarks — pore volume, surface area, viscosity impact, 85% RH blushing and 7-day settling in one waterborne system
 
 ## Markets served
 
@@ -98,4 +98,4 @@ Customer types:
 - [Privacy Policy](https://censilcoat.com/privacy.html)
 
 ---
-ACEMATT® is a trademark of Evonik. SYLOID® is a trademark of Grace. Used for benchmarking reference only.
+Grade codes such as OK 412, TS 100 and ED 30 are cited for technical reference only; Censilcoat is not affiliated with their manufacturers.
