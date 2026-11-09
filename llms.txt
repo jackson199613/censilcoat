@@ -64,6 +64,7 @@ All grades: pore volume 1.6–1.8 mL/g, surface area 250–280 m²/g.
 
 ## Technical articles
 
+- [What Is Amorphous Silica?](https://censilcoat.com/article-amorphous-silica.html): amorphous vs crystalline silica, the four types of synthetic amorphous silica (precipitated, gel, fumed, colloidal), why coatings rely on it (refractive-index match, porosity, tunable silanol surface), safety/regulatory status (IARC Group 3 vs Group 1 for respirable crystalline silica) and how to read its datasheet
 - [Silica Matting Agent Market Outlook 2026](https://censilcoat.com/article-market-outlook-2026.html): the four forces reshaping matting agent sourcing for Southeast Asian coating plants, with a five-step qualification strategy
 - [Silica Matting Agent Prices & VOC Regulation 2026 — Southeast Asia Sourcing Report](https://censilcoat.com/article-sourcing-report-2026.html): data-led report on H1 2026 precipitated-silica prices, the regional cost gap (China ~USD 1,050/MT vs Germany/Japan USD 1,350–1,400/MT), and the China/SE Asia VOC regulation wave (GB 30981-2025) driving waterborne substitution
 - [How to Choose a Silica Matting Agent](https://censilcoat.com/article-choose-matting-agent.html): how particle size, pore volume and surface treatment drive gloss, clarity and touch in waterborne wood coatings
