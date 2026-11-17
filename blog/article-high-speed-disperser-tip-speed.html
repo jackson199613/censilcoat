@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>High-Speed Disperser Settings for Matting Agents: Tip Speed and Time | Censilcoat</title>
+<meta name="description" content="High speed disperser tip speed for silica matting agents: the formula, rpm tables, typical windows per stage, dispersion time studies and lab-to-plant scale-up.">
+<meta name="keywords" content="" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="canonical" href="https://censilcoat.com/blog/article-high-speed-disperser-tip-speed">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Censilcoat">
+<meta property="og:title" content="High-Speed Disperser Settings for Matting Agents: Tip Speed and Time | Censilcoat">
+<meta property="og:description" content="High speed disperser tip speed for silica matting agents: the formula, rpm tables, typical windows per stage, dispersion time studies and lab-to-plant scale-up.">
+<meta property="og:url" content="https://censilcoat.com/blog/article-high-speed-disperser-tip-speed">
+<meta property="og:image" content="https://censilcoat.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="High-Speed Disperser Settings for Matting Agents: Tip Speed and Time | Censilcoat">
+<meta name="twitter:description" content="High speed disperser tip speed for silica matting agents: the formula, rpm tables, typical windows per stage, dispersion time studies and lab-to-plant scale-up.">
+<meta name="twitter:image" content="https://censilcoat.com/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/tailwind.css">
+<style>
+  body { font-family: 'Inter', system-ui, sans-serif; }
+  .glass { background: rgba(255,255,255,0.7); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+  .article-body h2 { margin-top: 2.25rem; font-size: 1.35rem; line-height: 1.35; font-weight: 700; color: #0F172A; }
+  .article-body h3 { margin-top: 1.5rem; font-size: 1.08rem; font-weight: 700; color: #0F172A; }
+  .article-body p { margin-top: 0.9rem; }
+  .article-body ul, .article-body ol { margin-top: 0.9rem; padding-left: 1.4rem; }
+  .article-body ul { list-style: disc; }
+  .article-body ol { list-style: decimal; }
+  .article-body li { margin-top: 0.4rem; }
+  .article-body table { width: 100%; border-collapse: collapse; margin-top: 1rem; font-size: 0.875rem; }
+  .article-body th { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 2px solid #E2E8F0; color: #64748B; font-weight: 600; }
+  .article-body td { padding: 0.6rem 0.8rem; border-bottom: 1px solid #E2E8F0; vertical-align: top; }
+  .article-body a { color: #0369A1; font-weight: 500; }
+  .article-body a:hover { text-decoration: underline; }
+  .article-body strong { color: #0F172A; }
+  .article-body caption { caption-side: bottom; text-align: left; font-size: 0.75rem; color: #94A3B8; padding-top: 0.5rem; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
+</style>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-17853357891"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-17853357891');
+  gtag('config', 'G-BTGL2GJGHV');
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://censilcoat.com/#censil",
+      "name": "Censil",
+      "description": "Integrated silica manufacturing and trading group with its own plant in Fujian, China.",
+      "sameAs": [
+        "https://www.linkedin.com/company/longyan-shenghe-trading-co.-ltd./"
+      ],
+      "legalName": "Longyan Shenghe Trading Co., Ltd."
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://censilcoat.com/#organization",
+      "name": "Censilcoat",
+      "alternateName": "Censil Coating",
+      "url": "https://censilcoat.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://censilcoat.com/og-image.png",
+        "width": 1200,
+        "height": 630
+      },
+      "description": "Factory-direct manufacturer of waterborne silica matting agents — performance-matched to commonly used imported grades such as OK 412, TS 100 and ED 30, at 20-30% lower cost.",
+      "foundingDate": "2010",
+      "email": "jan.jiang@censilcoat.com",
+      "telephone": "+1-619-558-6563",
+      "parentOrganization": {
+        "@id": "https://censilcoat.com/#censil"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://censilcoat.com/blog/article-high-speed-disperser-tip-speed#webpage",
+      "url": "https://censilcoat.com/blog/article-high-speed-disperser-tip-speed",
+      "name": "High-Speed Disperser Settings for Matting Agents: Tip Speed and Time",
+      "description": "High speed disperser tip speed for silica matting agents: the formula, rpm tables, typical windows per stage, dispersion time studies and lab-to-plant scale-up.",
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "isPartOf": {
+        "@id": "https://censilcoat.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://censilcoat.com/index.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://censilcoat.com/blog.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "High-Speed Disperser Settings for Matting Agents: Tip Speed and Time",
+          "item": "https://censilcoat.com/blog/article-high-speed-disperser-tip-speed"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "headline": "High-Speed Disperser Settings for Matting Agents: Tip Speed and Time",
+      "description": "High speed disperser tip speed for silica matting agents: the formula, rpm tables, typical windows per stage, dispersion time studies and lab-to-plant scale-up.",
+      "datePublished": "2026-11-17",
+      "dateModified": "2026-11-17",
+      "author": {
+        "@type": "Organization",
+        "name": "Censilcoat",
+        "url": "https://censilcoat.com/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Censilcoat",
+        "url": "https://censilcoat.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://censilcoat.com/og-image.png"
+        }
+      },
+      "mainEntityOfPage": "https://censilcoat.com/blog/article-high-speed-disperser-tip-speed",
+      "image": "https://censilcoat.com/lab-qc.webp",
+      "keywords": "high speed disperser tip speed",
+      "about": [
+        "high speed disperser tip speed",
+        "dispersion time for silica matting agents",
+        "disperser scale-up in waterborne coatings"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a good high speed disperser tip speed for silica matting agents?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "As a general starting point, many waterborne formulators deagglomerate matting silica at a moderate tip speed, often around 10–18 m/s, which is lower than a typical pigment grind. Use the lowest tip speed that consistently reaches your fineness and gloss targets in the set time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I convert rpm to tip speed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tip speed in m/s equals π × blade diameter in metres × rpm ÷ 60. A 50 mm blade at 3,000 rpm runs at about 7.9 m/s; a 300 mm blade reaches the same speed at only about 500 rpm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long should I disperse a matting agent?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the grade, tip speed and base viscosity. Many matting grades need 15–20 minutes. Start the clock only after all powder is incorporated and the set tip speed is reached, and confirm the time with a 5–30 minute time study."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does gloss change when I scale up from lab to production?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually because rpm was copied instead of tip speed, geometry ratios differ, or the larger batch turns over more slowly through the shear zone. Keep tip speed and geometry constant and confirm dispersion time on the first production batches."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I disperse matting silica at too high a tip speed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. After agglomerates are broken, extra energy mainly adds heat and air, and prolonged high shear can degrade particles or surface treatment so gloss rises. Cap both tip speed and time in the batch instruction."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+<script defer="" src="/assets/track.js?v=20260825"></script>
+<!-- 51.la -->
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"3RnyMmgN6O5bxRjx",ck:"3RnyMmgN6O5bxRjx"})</script>
+</head>
+<body class="bg-gradient-to-br from-slate-50 via-white to-sky-50 min-h-screen">
+
+<header class="sticky top-0 z-50 glass border-b border-slate-200/60">
+  <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+    <a href="/" class="flex items-center space-x-2">
+      <span class="text-xl font-bold text-sky-700">Censilcoat</span>
+    </a>
+    <div class="hidden md:flex items-center space-x-6 text-sm font-medium text-slate-600">
+      <a href="/" class="hover:text-sky-700">Home</a>
+      <a class="hover:text-sky-700" href="/products">Products</a>
+      <a class="hover:text-sky-700 text-sky-700" href="/blog">Resources</a><a class="hover:text-sky-700 text-sky-700" href="/faq">FAQ</a>
+      <a class="hover:text-sky-700" href="/contact">Contact</a>
+    </div>
+  </nav>
+</header>
+
+<main class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  <nav class="text-sm text-slate-500 mb-8">
+    <a href="/" class="hover:text-sky-700">Home</a>
+    <span class="mx-2">/</span>
+    <a class="hover:text-sky-700" href="/blog">Blog</a>
+    <span class="mx-2">/</span>
+    <span class="text-slate-700">Disperser Tip Speed and Time</span>
+  </nav>
+
+  <article>
+    <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 leading-tight mb-4">High-Speed Disperser Settings for Matting Agents: Tip Speed and Time</h1>
+    <p class="text-sm text-slate-500 mb-8">Published: 2026-11-17 · Censilcoat Technical Team · Formulation</p>
+
+    <img src="/lab-qc.webp" alt="Coating QC laboratory checking fineness and gloss after setting high speed disperser tip speed and time for a silica matting agent batch" loading="lazy" class="w-full h-auto rounded-2xl shadow-sm mb-10">
+
+    <div class="article-body">
+<p>The <strong>high speed disperser tip speed</strong> you choose, together with how long you run, decides whether a silica matting agent ends up as individual particles doing their job at the film surface, or as a mix of seeds, foam and drifting gloss. Most matting grades need far less energy than a pigment grind: a moderate tip speed for a fixed, recorded time is usually enough. The difficulty is that "speed 3 for a while" does not transfer between a 50 mm lab blade and a 400 mm production blade. This article gives the formula, worked numbers, typical starting windows for each stage, how to set dispersion time, and how to scale settings from the lab to the plant.</p>
+<p>It assumes you already know why matting silica is dispersed rather than milled. If not, start with our overview of <a href="/blog/article-matting-agent-dispersion">dispersing silica matting agents without bead milling</a>, then come back here for the numbers.</p>
+
+<h2>What tip speed is and how to calculate it</h2>
+<p>Tip speed is the linear velocity of the outer edge of the disperser blade. It is the single most useful number for describing how hard a saw-tooth blade is working, because the shear zone that wets and deagglomerates powder sits right at that edge.</p>
+<p><strong>Tip speed (m/s) = π × blade diameter (m) × rpm ÷ 60</strong></p>
+<p>Turned around, the shaft speed needed for a target tip speed is <strong>rpm = 60 × tip speed ÷ (π × blade diameter)</strong>. Imperial specifications are often given in feet per minute; 1 m/s is about 197 ft/min.</p>
+<table>
+<thead>
+<tr><th>Blade diameter</th><th>rpm for 5 m/s</th><th>rpm for 10 m/s</th><th>rpm for 15 m/s</th></tr>
+</thead>
+<tbody>
+<tr><td>50 mm (lab)</td><td>~1,910</td><td>~3,820</td><td>~5,730</td></tr>
+<tr><td>100 mm (pilot)</td><td>~955</td><td>~1,910</td><td>~2,865</td></tr>
+<tr><td>300 mm (production)</td><td>~318</td><td>~637</td><td>~955</td></tr>
+<tr><td>500 mm (production)</td><td>~191</td><td>~382</td><td>~573</td></tr>
+</tbody>
+<caption>Calculated from the tip-speed formula; round to what your drive allows.</caption>
+</table>
+<p>The table shows the trap. A lab operator who runs "3,000 rpm" on a 50 mm blade is at about 7.9 m/s. Copy "3,000 rpm" to a 100 mm pilot blade and the tip speed doubles to about 15.7 m/s. The opposite happens in production: a large blade turning a few hundred rpm can be working just as hard as a small lab blade spinning at several thousand. Write batch instructions in m/s (or ft/min), and give the rpm for each machine as a derived value.</p>
+
+<h2>Typical tip speed windows by process stage</h2>
+<p>A matting batch passes through stages that need different energy. Running the whole batch at one speed tends to cause either dusting and lumps at the start, or foam and heat at the end. The ranges below are general industry starting points for saw-tooth dispersers in waterborne coatings, not universal rules. Confirm them in your own base with the time study described later.</p>
+<table>
+<thead>
+<tr><th>Stage</th><th>Typical tip speed</th><th>Goal</th><th>What to watch</th></tr>
+</thead>
+<tbody>
+<tr><td>Powder incorporation</td><td>Low to moderate, ~4–8 m/s, rising as the batch thickens</td><td>Draw powder into the vortex without dusting or floating rafts</td><td>Add gradually; keep a rolling flow with the blade just visible</td></tr>
+<tr><td>Deagglomeration of matting silica</td><td>Moderate, often ~10–18 m/s</td><td>Break soft agglomerates; complete wetting of pores</td><td>Foam, temperature rise, gloss versus standard</td></tr>
+<tr><td>Pigment grind (for comparison)</td><td>Higher, often high teens to mid-20s m/s</td><td>Develop colour strength and fineness</td><td>Not usually needed for matting silica alone</td></tr>
+<tr><td>Binder letdown and additions</td><td>Low, ~3–6 m/s</td><td>Mix without shear damage or air entrainment</td><td>Resin shock, coalescent addition rate, foam</td></tr>
+</tbody>
+</table>
+<p>Two points are worth stressing. First, higher is not better for matting silica: once agglomerates are gone, extra energy only heats the batch, entrains air and, in the extreme, damages surface treatment and lowers matting efficiency. Second, the deagglomeration window you settle on should be the lowest tip speed that consistently reaches your fineness and gloss targets in the set time. That gives you headroom when a batch is slightly thicker or colder than normal.</p>
+
+<h2>Dispersion time: when the clock starts and how to set it</h2>
+<p>Tip speed and time work together. A useful way to think about it is energy input: power drawn by the motor multiplied by time, divided by batch mass. Doubling time at the same speed roughly doubles the energy, and so does a large increase in viscosity at the same speed. That is why a time instruction without a tip speed, or a tip speed without a viscosity range, is incomplete.</p>
+<h3>Define the start point</h3>
+<p>The most common source of batch-to-batch variation is ambiguity about when dispersion time begins. Write it down explicitly: <strong>the clock starts when the last of the matting agent has been incorporated and the disperser has reached the set tip speed</strong>. Time spent adding powder does not count, because during incorporation much of the silica has not yet reached the shear zone.</p>
+<h3>Run a time study</h3>
+<ol>
+<li>Make a single base batch and split it into five equal portions at the same matting agent level.</li>
+<li>Disperse each portion at one fixed tip speed for 5, 10, 15, 20 and 30 minutes.</li>
+<li>Record the batch temperature at the end of each run.</li>
+<li>Read fineness (Hegman, ISO 1524 / ASTM D1210) and viscosity at a fixed time after dispersion.</li>
+<li>Draw down at the target film thickness and measure 60° and 85° gloss after full cure.</li>
+<li>Plot gloss against time. Choose the point where gloss and fineness have levelled off, and check that the 30-minute sample has not drifted back up.</li>
+</ol>
+<p>If time permits, repeat at a second tip speed a few m/s higher or lower. Two curves tell you how forgiving the formula is. A broad, flat plateau means operator variation will hardly affect gloss; a steep curve means the instruction must be followed tightly. For reliable gloss readings on low-sheen panels, see <a href="/blog/article-how-to-measure-gloss">how to measure gloss correctly on matte panels</a>.</p>
+
+<h2>Geometry and viscosity: why the same tip speed behaves differently</h2>
+<p>Tip speed only describes the blade. Whether that energy reaches the powder depends on the flow pattern in the vessel, which is governed by geometry and viscosity. Common guidelines from dispersion practice are:</p>
+<ul>
+<li><strong>Vessel diameter</strong> about 2–3 times the blade diameter. Larger vessels leave dead zones near the wall.</li>
+<li><strong>Blade height</strong> about 0.5–1 blade diameter above the vessel bottom.</li>
+<li><strong>Liquid depth</strong> about 1–2 blade diameters. Shallow batches pull air into the vortex; deep batches leave the upper layer stagnant.</li>
+<li><strong>Flow pattern</strong>: a rolling "doughnut" with a small vortex where the blade is just visible. A deep, open vortex means air is being whipped in; a flat, motionless surface means the material is not turning over.</li>
+</ul>
+<p>Viscosity matters as much as speed. In a very thin base, the blade slips through the liquid; energy turns into turbulence and foam rather than shear on the agglomerates. In a very thick base, the batch moves only near the blade and the rest of the vessel stalls. Many plants therefore disperse matting silica at a moderate working viscosity, for example in the grind stage with part of the binder or a rheology additive present, and add the main thickener after the silica is fully wetted. Porous silica keeps taking up liquid for some minutes, so viscosity readings taken immediately after dispersion will be lower than readings taken later; always measure at a fixed interval.</p>
+
+<h2>Scaling high speed disperser tip speed from lab to production</h2>
+<p>Scale-up is where most settings go wrong. Keeping tip speed constant is the right first step, but it is not the whole story.</p>
+<table>
+<thead>
+<tr><th>Factor</th><th>What changes at larger scale</th><th>How to handle it</th></tr>
+</thead>
+<tbody>
+<tr><td>Tip speed</td><td>Same m/s needs much lower rpm on a larger blade</td><td>Specify m/s; list derived rpm per machine</td></tr>
+<tr><td>Geometry ratios</td><td>Production tanks are often wider or fuller than the lab equivalent</td><td>Keep vessel/blade, height and depth ratios close to the lab set-up</td></tr>
+<tr><td>Batch turnover</td><td>Lower rpm means fewer passes of material through the shear zone per minute</td><td>Expect to verify, and sometimes extend, dispersion time in the first production batches</td></tr>
+<tr><td>Temperature</td><td>Large batches lose heat more slowly and can run warmer</td><td>Log start and end temperature; set a maximum based on binder supplier guidance</td></tr>
+<tr><td>Powder addition</td><td>Bags go in faster than a lab spatula, creating dry lumps</td><td>Specify addition rate or time; use a sifting screen or powder induction where available</td></tr>
+</tbody>
+</table>
+<p>A practical approach is to treat the first two or three production batches as confirmation runs: take samples at intervals during dispersion, check fineness and drawdown gloss against the lab standard, and fix the production time from those results. Recording motor power or current alongside time gives a further reference, since energy input per kilogram tends to transfer more faithfully than time alone.</p>
+
+<h2>Signs your disperser settings are wrong</h2>
+<table>
+<thead>
+<tr><th>Symptom</th><th>Likely setting problem</th><th>Adjustment</th></tr>
+</thead>
+<tbody>
+<tr><td>Seeds or specks; streaks on the Hegman gauge</td><td>Tip speed too low, time too short, or powder added faster than the vortex can take it</td><td>Slow the addition; confirm the clock start point; raise tip speed modestly</td></tr>
+<tr><td>Gloss above standard</td><td>Under-dispersion, or matting agent settled in the tank before sampling</td><td>Check time and tip speed; stir the tank before sampling</td></tr>
+<tr><td>Gloss rises with longer dispersion</td><td>Over-dispersion degrading particles or surface treatment</td><td>Shorten time or lower tip speed; cap both in the instruction</td></tr>
+<tr><td>Foam and microbubbles</td><td>Base too thin, blade too high, open vortex</td><td>Disperse at higher working viscosity; lower the blade; add part of the defoamer before the powder</td></tr>
+<tr><td>Batch running hot</td><td>Excess energy: speed, time or viscosity too high</td><td>Reduce tip speed; check viscosity; consider cooling for large batches</td></tr>
+<tr><td>Gloss varies between shifts</td><td>Settings recorded as dial positions or rpm, not tip speed</td><td>Rewrite instructions in m/s with a defined start point</td></tr>
+</tbody>
+</table>
+<p>For defects with other root causes, such as whitening at high humidity or hard sediment, see the <a href="/article-troubleshooting-matting.html">matting agent troubleshooting guide</a>.</p>
+
+<h2>How Censilcoat grades fit</h2>
+<p>All seven Censilcoat grades are wax-modified amorphous precipitated silicas supplied at their working particle size. They are designed for <strong>high-speed dispersion for 15–20 minutes, with no bead milling required</strong>, so they suit the moderate tip-speed window above rather than a pigment-grind regime. Every grade has a pore volume of 1.6–1.8 mL/g and a surface area of 250–280 m²/g, and typical dosage is 1–4% on total formulation.</p>
+<table>
+<thead>
+<tr><th>Grade</th><th>d50 (μm)</th><th>Typical use</th></tr>
+</thead>
+<tbody>
+<tr><td>Censil660</td><td>5.0–5.3</td><td>High-clarity water-white clear topcoats</td></tr>
+<tr><td>Censil651</td><td>4.9–5.2</td><td>Fine touch, smooth high-clarity clears</td></tr>
+<tr><td>Censil351C</td><td>4.8–5.1</td><td>Fine universal grade</td></tr>
+<tr><td>Censil361C</td><td>5.9–6.2</td><td>Universal semi-matte to matte workhorse</td></tr>
+<tr><td>Censil1531D</td><td>5.3–5.6</td><td>Cost-optimised transition grade</td></tr>
+<tr><td>Censil1650A</td><td>6.2–6.5</td><td>Deep matte for premium plastics and tactile furniture</td></tr>
+<tr><td>Censil3851</td><td>8.5–9.0</td><td>Extreme low gloss, hard plastic surfaces</td></tr>
+</tbody>
+</table>
+<p>When you replace an imported grade, keep tip speed, time and the clock start point exactly as in your current batch instruction for the first trial, so any gloss difference comes from the silica and not the process. The <a href="/alternatives/ok-412-alternative.html">OK 412 alternative</a> and <a href="/alternatives/ed-4-alternative.html">ED 4 alternative</a> pages show the corresponding benchmarks. Full specifications are on the <a href="/products.html">products page</a>, and the <a href="/solutions.html">solutions page</a> maps grades to resin system and gloss target. Samples are free (2 kg), MOQ is 500 kg, and product ships in 20 kg bags.</p>
+    </div>
+
+    <section class="mt-12 bg-sky-50 border border-sky-200 rounded-xl p-6">
+      <h2 class="text-xl font-bold text-sky-900 mb-4">Frequently Asked Questions</h2>
+      <div class="space-y-4">
+        <div class="bg-white rounded-lg p-4">
+          <h3 class="font-semibold text-slate-800 mb-2">1. What is a good high speed disperser tip speed for silica matting agents?</h3>
+          <p class="text-slate-600 text-sm">As a general starting point, many waterborne formulators deagglomerate matting silica at a moderate tip speed, often around 10–18 m/s, which is lower than a typical pigment grind. Use the lowest tip speed that consistently reaches your fineness and gloss targets in the set time.</p>
+        </div>
+        <div class="bg-white rounded-lg p-4">
+          <h3 class="font-semibold text-slate-800 mb-2">2. How do I convert rpm to tip speed?</h3>
+          <p class="text-slate-600 text-sm">Tip speed in m/s equals π × blade diameter in metres × rpm ÷ 60. A 50 mm blade at 3,000 rpm runs at about 7.9 m/s; a 300 mm blade reaches the same speed at only about 500 rpm.</p>
+        </div>
+        <div class="bg-white rounded-lg p-4">
+          <h3 class="font-semibold text-slate-800 mb-2">3. How long should I disperse a matting agent?</h3>
+          <p class="text-slate-600 text-sm">It depends on the grade, tip speed and base viscosity. Many matting grades need 15–20 minutes. Start the clock only after all powder is incorporated and the set tip speed is reached, and confirm the time with a 5–30 minute time study.</p>
+        </div>
+        <div class="bg-white rounded-lg p-4">
+          <h3 class="font-semibold text-slate-800 mb-2">4. Why does gloss change when I scale up from lab to production?</h3>
+          <p class="text-slate-600 text-sm">Usually because rpm was copied instead of tip speed, geometry ratios differ, or the larger batch turns over more slowly through the shear zone. Keep tip speed and geometry constant and confirm dispersion time on the first production batches.</p>
+        </div>
+        <div class="bg-white rounded-lg p-4">
+          <h3 class="font-semibold text-slate-800 mb-2">5. Can I disperse matting silica at too high a tip speed?</h3>
+          <p class="text-slate-600 text-sm">Yes. After agglomerates are broken, extra energy mainly adds heat and air, and prolonged high shear can degrade particles or surface treatment so gloss rises. Cap both tip speed and time in the batch instruction.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="mt-10 bg-slate-900 text-white rounded-xl p-6">
+      <h2 class="text-xl font-bold mb-2">Set your dispersion window with a free sample</h2>
+      <p class="text-slate-300 text-sm">Tell us your binder, disperser size and gloss target. We will recommend a grade and send a free 2 kg sample with TDS, SDS and benchmark sheet, so you can run the tip-speed and time study in your own base. <a class="underline text-sky-300" href="/contact.html">Request it here</a>.</p>
+    </section>
+  </article>
+
+  <div class="mt-12 text-center">
+    <a class="inline-block bg-sky-600 hover:bg-sky-700 text-white font-semibold px-8 py-3 rounded-lg shadow-md transition" href="/contact.html">
+      Request a Free 2 kg Sample →
+    </a>
+  </div>
+</main>
+
+<footer class="bg-slate-900 text-white py-12 mt-16">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <p class="text-lg font-semibold mb-2">Censil — Factory-Direct Silica Matting Agents</p>
+    <p class="text-slate-400 text-sm mb-4">Matched to commonly used imported grades at 20-30% lower cost</p>
+    <p class="text-slate-500 text-xs">© 2026 Longyan Shenghe Trading Co., Ltd. All rights reserved.</p>
+  </div>
+</footer>
+
+
+</body></html>
